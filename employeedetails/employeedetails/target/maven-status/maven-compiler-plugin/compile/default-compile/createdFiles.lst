@@ -1,0 +1,4 @@
+com\example\employee\employeedetails\EmployeedetailsApplication.class
+com\example\employee\employeedetails\Employee.class
+com\example\employee\employeedetails\EmployeeController.class
+com\example\employee\employeedetails\EmployeeService.class
